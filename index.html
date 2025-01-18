@@ -4,22 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PC STORE</title>
-
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="/css/bootstrap.min.css">   
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">   
 </head>
 <body>
-    <div>
+    <div class="titleGeneral">
         <h1 class="h1 text-center">Bienvenidos a Pc Gamer</h1>
     </div>
-    <div id="container"></div>
-    <button id="openModal">Abrir Ventana</button>
-    <div id="modal" class="modal">
-        <div class="modal-content">
-            <span id="closeModal" class="close">&times;</span>
-            <p>¡Hola! Soy una ventana emergente.</p>
-        </div>
+    <div class="row g-0 text-center">
+        <div id="container"></div>
+        <div id="lateralBar" class=""></div>
     </div>
+    <div class="buttons">
+        <button id="delete" class="buttonBotton">Eliminar</button>
+        <button id="showInvoice" class="buttonBotton"><a href="./pages/invoice.html">Comprar</a></button>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="/js/script.js"></script>
 </body>
 </html>

@@ -1,0 +1,102 @@
+
+{"cpu":[
+    {
+        "id": 1,
+        "name": "Ryzen 9 7950X3D",
+        "img": "https://www.cclonline.com/images/avante/231804950-A_Ryzen9_7900X3D_3DPIB_FRONT_PL.jpg?width=1176&height=884&scale=canvas&trim.threshold=80",
+        "price": 470
+    },
+    {
+        "id": 2,
+        "name": "Ryzen 7 7700X",
+        "img": "https://www.cclonline.com/images/avante/231804950-A_Ryzen9_7900X3D_3DPIB_FRONT_PL.jpg?width=1176&height=884&scale=canvas&trim.threshold=80",
+        "price": 500
+    },
+    {
+        "id": 3,
+        "name": "Ryzen 5 7600X",
+        "img": "https://www.cclonline.com/images/avante/231804950-A_Ryzen9_7900X3D_3DPIB_FRONT_PL.jpg?width=1176&height=884&scale=canvas&trim.threshold=80",
+        "price": 300
+    }
+],
+"cardGraphic" : [
+    {
+        "id": 1,
+        "name": "4080 SUPER",
+        "img" : "https://asset.msi.com/resize/image/global/product/product_17059896263e3ce8ea54d6cbbb94bc2c3395e01319.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "price": 1500
+    },
+    {
+        "id": 2,
+        "name": "4070 TI SUPER",
+        "img" : "https://asset.msi.com/resize/image/global/product/product_17059896263e3ce8ea54d6cbbb94bc2c3395e01319.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "price": 1150
+    },
+    {
+        "id": 3,
+        "name": "4060 TI",
+        "img" : "https://asset.msi.com/resize/image/global/product/product_17059896263e3ce8ea54d6cbbb94bc2c3395e01319.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "price": 600
+    }
+],
+"ram" : [
+    {
+        "id": 1,
+        "name": "32GB DDR5 6000Mhz",
+        "img": "https://c1.neweggimages.com/ProductImageCompressAll1280/20-982-097-05.png",
+        "price": 150
+    },
+    {
+        "id": 2,
+        "name": "24GB DDR5 6000Mhz",
+        "img": "https://c1.neweggimages.com/ProductImageCompressAll1280/20-982-097-05.png",
+        "price": 120
+    },
+    {
+        "id": 3,
+        "name": "16GB DDR5 6000Mhz",
+        "img": "https://c1.neweggimages.com/ProductImageCompressAll1280/20-982-097-05.png",
+        "price": 70
+    }
+],
+ "storage" : [
+    {
+        "id": 1,
+        "name": "4TB SSD NVME",
+        "img": "https://image-us.samsung.com/SamsungUS/home/computing/memory-and-storage/solid-state-drives/pdp/mz-v7e500bw/gallery-v2/002_gallery_MZ-V7E500BW_09-28-18.jpg?$product-details-jpg$",
+        "price": 200
+    },
+    {
+        "id": 2,
+        "name": "2TB SSD NVME",
+        "img": "https://image-us.samsung.com/SamsungUS/home/computing/memory-and-storage/solid-state-drives/pdp/mz-v7e500bw/gallery-v2/002_gallery_MZ-V7E500BW_09-28-18.jpg?$product-details-jpg$",
+        "price": 150
+    },
+    {
+        "id": 3,
+        "name": "1TB SSD NVME",
+        "img": "https://image-us.samsung.com/SamsungUS/home/computing/memory-and-storage/solid-state-drives/pdp/mz-v7e500bw/gallery-v2/002_gallery_MZ-V7E500BW_09-28-18.jpg?$product-details-jpg$",
+        "price": 80
+    }
+],
+"motherboard" : [
+    {
+        "id": 1,
+        "name": "X670",
+        "img": "https://www.asus.com/media/odin/websites/MX/News/ixtfigwrvxwhhgr9/roges.jpg",
+        "price": 300
+    },
+    {
+        "id": 2,
+        "name": "B650",
+        "img": "https://www.asus.com/media/odin/websites/MX/News/ixtfigwrvxwhhgr9/roges.jpg",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "name": "A620",
+        "img": "https://www.asus.com/media/odin/websites/MX/News/ixtfigwrvxwhhgr9/roges.jpg",
+        "price": 100
+    }
+]
+}
